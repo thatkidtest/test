@@ -1,1 +1,490 @@
-var _0x260f=['UNA','You\x20never\x20got\x20your\x20parents\x20approval,\x20so\x20now\x20you\x20try\x20desperately\x20to\x20win\x20your\x20professor’s.\x20Surely\x20raising\x20your\x20hand\x20all\x20the\x20time,\x20nodding\x20like\x20a\x20bobblehead\x20on\x20a\x20backroad,\x20and\x20hogging\x20their\x20office\x20hours\x20will\x20win\x20them\x20over!\x20You\x20come\x20prepared\x20for\x20class\x20with\x20every\x20text\x20on\x20the\x20syllabus\x20compressing\x20your\x20spine,\x20polychrome\x20notes\x20that\x20would\x20make\x20a\x20pantone\x20rep\x20jealous\x20and\x20an\x20insufferable\x20willingness\x20to\x20learn\x20and\x20participate.\x20You\x20are\x20like\x20an\x20F-22\x20raptor.\x20A\x20lean\x20mean\x20academic\x20machine.\x20You’re\x20prepared\x20to\x20blast\x20your\x20professor’s\x20socks\x20off.\x20Only\x20instead\x20of\x20an\x20F-22,\x20you’re\x20more\x20like\x20a\x20drone\x20running\x20on\x20Windows\x202000.\x20You\x20are\x20an\x20object\x20of\x20awe,\x20pity\x20and\x20schadenfreude\x20as\x20the\x20professor\x20smiles\x20politely\x20and\x20says\x20“Mm-hmm,\x20anyone\x20else?”\x20Too\x20bad\x20life\x20rewards\x20results\x20rather\x20than\x20effort.','</br></br><font\x20size=2>*That\x20Kid\x20Index\x20(from\x200\x20to\x201)','inline-block','\x20TK:\x20','\x20intel:\x20','\x20hostility:\x20','\x20faculty:\x20','NzeyB','iEBwF','data','jHGxj','jXvTE','omVsx','kPhNv','UHBvT','SDfpL','CQgTV','baEWS','omYgN','WlMMC','QeVPK','WGprn','GqtRM','CyuoC','GeYYJ','PimZh','sIKbg','eMJLD','CCCbX','NaYzL','xQLcQ','lNaku','Ywcoa','hvHMp','vbhBg','gDeTL','KTYjd','FIBFB','yMTAy','ciwMr','LdKwO','tkness:\x20','sbVqk','JnlAe','GHaoJ','The\x20Heckler','KOMuW','pRkJv','UXQiv','ufjWm','coCKy','GDcDO','Arvrm','</br></br><font\x20size=5>','eqPeT','ZjJml','TqcWN','zMVfD','</font>','kaHDn','AhztU','gLBRG','uwpck','mRXWj','hVEly','RgQMZ','YeldW','RcODa','intro2_div','oTHSN','DXKxN','hIfIr','jhyrI','click','HmIhe','display','gger','string','while\x20(true)\x20{}','counter','stateObject','Jdezg','MPYGX','BPuXG','call','fAZoa','KopRT','debu','apply','oWzxX','cyOaO','gYRoC','function\x20*\x5c(\x20*\x5c)','init','chain','input','random','log','Rarely','Always','I\x20correct\x20my\x20professor.','I\x20speak\x20more\x20frequently\x20than\x20my\x20peers.','I\x20speak\x20without\x20raising\x20my\x20hand,\x20even\x20when\x20others\x20do\x20not.','I\x20have\x20underqualified\x20professors.','Survey','bootstrap','block','getElementById','style','wpUVL','portfolio','intro1','innerHTML','Please\x20answer\x20as\x20accurately\x20as\x20possible.\x20(1:\x20completetely\x20disagree,\x207:\x20completely\x20agree)','I\x20am\x20comfortable\x20speaking\x20in\x20class.','It\x20is\x20okay\x20to\x20interrupt\x20the\x20professor\x20when\x20they\x20are\x20speaking\x20if\x20I\x20have\x20a\x20very\x20good\x20point.','Peers\x20and\x20professors\x20do\x20not\x20seem\x20to\x20understand\x20my\x20point\x20right\x20away,\x20so\x20I\x20have\x20to\x20elaborate\x20for\x20a\x20long\x20time.','onComplete','\x5c+\x5c+\x20*(?:_0x(?:[a-f0-9]){4,6}|(?:\x5cb|\x5cd)[a-z0-9]{1,4}(?:\x5cb|\x5cd))','\x20<b>A</b>ll-inclusive','result2:\x20','The\x20Critic','The\x20Guest\x20Lecturer','The\x20Brute','The\x20Rambler','\x20<b>N</b>on-hostile','Uh-oh,\x20looks\x20like\x20your\x20professor\x20has\x20overgeneralized\x20Plato’s\x20explication\x20of\x20the\x20divided\x20line\x20again.\x20Well,\x20someone’s\x20gotta\x20properly\x20express\x20the\x20nuances\x20between\x20the\x20formal\x20nature\x20of\x20objects\x20and\x20their\x20empirical\x20representation\x20to\x20the\x20rest\x20of\x20the\x20class,\x20and\x20it’s\x20clearly\x20not\x20the\x20guy\x20writing\x20the\x20syllabus.\x20Good\x20thing\x20you\x20did\x20the\x20readings\x20for\x20today.\x20Twice.\x20It\x27s\x20easy\x20to\x20get\x20your\x20readings\x20done\x20when\x20no\x20one\x20ever\x20wants\x20to\x20be\x20around\x20you.','You\x20live\x20and\x20die\x20(at\x20least\x20socially)\x20by\x20“rigorous\x20inquiry.”\x20Nothing\x20gets\x20past\x20you.\x20Whether\x20you’re\x20in\x20HUM,\x20SOSC,\x20or\x20the\x20dining\x20hall,\x20you\x20never\x20fail\x20to\x20imperiously\x20snark,\x20“define\x20your\x20terms!”\x20at\x20unsuspecting\x20“opponents”\x20when\x20your\x20arguments\x20inevitably\x20lead\x20you\x20into\x20trouble.\x20You’re\x20the\x20guy\x20who’s\x20up\x20debating\x20free\x20will\x20at\x204\x20am\x20because\x20you\x20couldn’t\x20let\x20that\x20cute\x20girl\x20in\x20your\x20SOSC\x20class\x20get\x20away\x20with\x20assuming\x20the\x20incompatibility\x20of\x20Newtonian\x20determinism\x20and\x20Sartrean\x20freedom.\x20Nice\x20save!','IHA','Congratulations!\x20You’re\x20the\x20flagship\x20That\x20Kid.\x20Your\x20peers\x20roll\x20their\x20eyes\x20whenever\x20you\x20speak\x20and\x20your\x20professor\x20is\x20tired\x20of\x20your\x20bullshit.\x20But\x20what\x20do\x20they\x20know?\x20They\x20didn’t\x20read\x20the\x20collected\x20works\x20of\x20Hegel\x20in\x20German.\x20They\x20all\x20know\x20you\x20did,\x20though,\x20because\x20you’ve\x20mentioned\x20your\x20summer\x20reading\x20list\x20in\x20class\x2018\x20times.\x20You’re\x20a\x20natural-born\x20leader,\x20and\x20you\x20embody\x20the\x20gifts\x20of\x20charisma\x20and\x20confidence.\x20You’re\x20such\x20a\x20leader\x20that\x20your\x20own\x20professor\x20is\x20intimidated\x20by\x20you.\x20That’s\x20probably\x20why\x20he\x20left\x20that\x20snarky\x20comment\x20on\x20your\x20transcript.','Lots\x20of\x20the\x20material\x20in\x20the\x20core\x20is\x20difficult\x20and\x20thorny.\x20Good\x20thing\x20there\x20is\x20a\x20highly\x20qualified\x20individual\x20in\x20the\x20room\x20prepared\x20to\x20lead\x20these\x20bewildered\x20undergrads\x20to\x20understanding.\x20You!\x20Your\x20role\x20is\x20to\x20bring\x20outside\x20sources,\x20brilliant\x20insights,\x20and\x20a\x20benevolent\x20pretentiousness\x20to\x20the\x20class\x20discussion.\x20The\x20professor\x20is\x20there\x20to\x20answer\x20questions\x20and\x20guide\x20conversation,\x20but\x20only\x20if\x20you\x20don’t\x20get\x20there\x20first.\x20Your\x20leadership\x20and\x20insight\x20are\x20likely\x20to\x20move\x20the\x20discussion\x20to\x20a\x20higher\x20plane\x20and\x20to\x20move\x20you\x20to\x20the\x20farthest\x20corner\x20at\x20house\x20parties.','INA','UHF','You\x20didn\x27t\x20do\x20the\x20readings,\x20but\x20one\x20of\x20your\x20peers\x20said\x20something\x20stupid.\x20You\x20are\x20saved.\x20This\x20idiot\x20said\x20just\x20enough\x20to\x20clue\x20your\x20hungover\x20mind\x20onto\x20what\x20exactly\x20should\x20be\x20said.\x20All\x20you\x20have\x20to\x20do\x20now\x20is\x20utter\x20the\x20magic\x20phrase:\x20“I’d\x20just\x20like\x20to\x20push\x20back\x20against\x20that.”\x20Participation\x20grade\x20saved.\x20Now\x20you\x20can\x20go\x20back\x20to\x20pretentiously\x20scribbling\x20delta\x20epsilon\x20proofs\x20with\x20large\x20handwriting\x20so\x20that\x20your\x20peers\x20can\x20see\x20that\x20you\x20are\x20A.)\x20Very\x20Very\x20Smart,\x20and\x20B.)\x20too\x20cool\x20for\x20SOSC.'];(function(_0x12f814,_0x8ab1bf){var _0x4a84b2=function(_0x40c7ba){while(--_0x40c7ba){_0x12f814['push'](_0x12f814['shift']());}};var _0x3414c5=function(){var _0x17546e={'data':{'key':'cookie','value':'timeout'},'setCookie':function(_0x214f66,_0x1ea0ec,_0x4b395b,_0x55e469){_0x55e469=_0x55e469||{};var _0x385fcf=_0x1ea0ec+'='+_0x4b395b;var _0x35c59b=0x0;for(var _0x35c59b=0x0,_0x171f5e=_0x214f66['length'];_0x35c59b<_0x171f5e;_0x35c59b++){var _0x3db7b3=_0x214f66[_0x35c59b];_0x385fcf+=';\x20'+_0x3db7b3;var _0xecd443=_0x214f66[_0x3db7b3];_0x214f66['push'](_0xecd443);_0x171f5e=_0x214f66['length'];if(_0xecd443!==!![]){_0x385fcf+='='+_0xecd443;}}_0x55e469['cookie']=_0x385fcf;},'removeCookie':function(){return'dev';},'getCookie':function(_0x19b7a8,_0x26dc3b){_0x19b7a8=_0x19b7a8||function(_0x2baba1){return _0x2baba1;};var _0x35907c=_0x19b7a8(new RegExp('(?:^|;\x20)'+_0x26dc3b['replace'](/([.$?*|{}()[]\/+^])/g,'$1')+'=([^;]*)'));var _0x4e5823=function(_0x5f0fed,_0x497c85){_0x5f0fed(++_0x497c85);};_0x4e5823(_0x4a84b2,_0x8ab1bf);return _0x35907c?decodeURIComponent(_0x35907c[0x1]):undefined;}};var _0x1912a9=function(){var _0x2a7e01=new RegExp('\x5cw+\x20*\x5c(\x5c)\x20*{\x5cw+\x20*[\x27|\x22].+[\x27|\x22];?\x20*}');return _0x2a7e01['test'](_0x17546e['removeCookie']['toString']());};_0x17546e['updateCookie']=_0x1912a9;var _0x5e558d='';var _0xc214af=_0x17546e['updateCookie']();if(!_0xc214af){_0x17546e['setCookie'](['*'],'counter',0x1);}else if(_0xc214af){_0x5e558d=_0x17546e['getCookie'](null,'counter');}else{_0x17546e['removeCookie']();}};_0x3414c5();}(_0x260f,0xe4));var _0xebef=function(_0x15a36d,_0x4784db){_0x15a36d=_0x15a36d-0x0;var _0x44cdb9=_0x260f[_0x15a36d];return _0x44cdb9;};var _0x3bf5db=function(){var _0x50685a=!![];return function(_0x316dfd,_0x40158d){var _0x452dbe=_0x50685a?function(){if(_0x40158d){var _0x99e1b8=_0x40158d['apply'](_0x316dfd,arguments);_0x40158d=null;return _0x99e1b8;}}:function(){};_0x50685a=![];return _0x452dbe;};}();var _0x637255=_0x3bf5db(this,function(){var _0x5ef965=function(){return'\x64\x65\x76';},_0x69703c=function(){return'\x77\x69\x6e\x64\x6f\x77';};var _0x1dee3e=function(){var _0x5b9a93=new RegExp('\x5c\x77\x2b\x20\x2a\x5c\x28\x5c\x29\x20\x2a\x7b\x5c\x77\x2b\x20\x2a\x5b\x27\x7c\x22\x5d\x2e\x2b\x5b\x27\x7c\x22\x5d\x3b\x3f\x20\x2a\x7d');return!_0x5b9a93['\x74\x65\x73\x74'](_0x5ef965['\x74\x6f\x53\x74\x72\x69\x6e\x67']());};var _0x4c9362=function(){var _0x41fb69=new RegExp('\x28\x5c\x5c\x5b\x78\x7c\x75\x5d\x28\x5c\x77\x29\x7b\x32\x2c\x34\x7d\x29\x2b');return _0x41fb69['\x74\x65\x73\x74'](_0x69703c['\x74\x6f\x53\x74\x72\x69\x6e\x67']());};var _0x5d66db=function(_0x13c3be){var _0x12435f=~-0x1>>0x1+0xff%0x0;if(_0x13c3be['\x69\x6e\x64\x65\x78\x4f\x66']('\x69'===_0x12435f)){_0x95bd2b(_0x13c3be);}};var _0x95bd2b=function(_0x2a9521){var _0x48de89=~-0x4>>0x1+0xff%0x0;if(_0x2a9521['\x69\x6e\x64\x65\x78\x4f\x66']((!![]+'')[0x3])!==_0x48de89){_0x5d66db(_0x2a9521);}};if(!_0x1dee3e()){if(!_0x4c9362()){_0x5d66db('\x69\x6e\x64\u0435\x78\x4f\x66');}else{_0x5d66db('\x69\x6e\x64\x65\x78\x4f\x66');}}else{_0x5d66db('\x69\x6e\x64\u0435\x78\x4f\x66');}});_0x637255();var _0x2a206a=function(){var _0x546d6d={'prtjb':'hIeHI'};var _0x409434=!![];return function(_0x5086e7,_0x6de00c){if(_0x546d6d['prtjb']===_0x546d6d['prtjb']){var _0x353496=_0x409434?function(){if(_0x6de00c){var _0xf86ed8=_0x6de00c['apply'](_0x5086e7,arguments);_0x6de00c=null;return _0xf86ed8;}}:function(){};_0x409434=![];return _0x353496;}else{debuggerProtection(0x0);}};}();(function(){var _0x59397c={'vWrOY':_0xebef('0x0'),'OBSTQ':_0xebef('0x1'),'DBpvj':_0xebef('0x2'),'SqUDb':_0xebef('0x3'),'tvoED':function(_0x52fe0e,_0x51d8e6){return _0x52fe0e(_0x51d8e6);},'OgOfD':function(_0x16bc25,_0x45ddcc,_0x1f7680){return _0x16bc25(_0x45ddcc,_0x1f7680);}};_0x59397c['OgOfD'](_0x2a206a,this,function(){var _0x2a6c5b=new RegExp(_0x59397c['vWrOY']);var _0x2ab258=new RegExp('\x5c+\x5c+\x20*(?:_0x(?:[a-f0-9]){4,6}|(?:\x5cb|\x5cd)[a-z0-9]{1,4}(?:\x5cb|\x5cd))','i');var _0x49917b=_0x5cb850(_0x59397c['OBSTQ']);if(!_0x2a6c5b['test'](_0x49917b+_0x59397c['DBpvj'])||!_0x2ab258['test'](_0x49917b+_0x59397c['SqUDb'])){_0x59397c['tvoED'](_0x49917b,'0');}else{_0x5cb850();}})();}());var indentifier=Math['floor'](Math[_0xebef('0x4')]()*0x989680);var ID='ID:\x20'+indentifier;console[_0xebef('0x5')](ID);var json={'questions':[{'type':'matrix','name':'Quality','title':'Please\x20rate\x20the\x20following\x20statements\x20to\x20the\x20best\x20of\x20your\x20ability','isAllRowRequired':'true','columns':[{'value':0x1,'text':'Never'},{'value':0x2,'text':_0xebef('0x6')},{'value':0x3,'text':'Sometimes'},{'value':0x4,'text':'Often'},{'value':0x5,'text':_0xebef('0x7')}],'rows':[{'value':'1','text':_0xebef('0x8')},{'value':'2','text':_0xebef('0x9')},{'value':'3','text':'My\x20peers\x20make\x20meaningful\x20contributions\x20to\x20discussions.'},{'value':'4','text':'I\x20make\x20meaningful\x20contributions\x20to\x20discussions.'},{'value':'5','text':'Professors\x20stop\x20me\x20while\x20I\x20am\x20speaking\x20in\x20class.'},{'value':'6','text':'Professors\x20ask\x20me\x20to\x20speak\x20and\x20participate\x20in\x20discussions\x20because\x20I\x20am\x20too\x20quiet.'},{'value':'7','text':'I\x20interrupt\x20my\x20professor.'},{'value':'8','text':_0xebef('0xa')},{'value':'9','text':_0xebef('0xb')},{'value':'10','text':'I\x20answer\x20my\x20peers\x27\x20questions\x20before\x20my\x20professor\x20does.'},{'value':'11','text':'I\x20refer\x20to\x20texts\x20that\x20were\x20not\x20assigned\x20for\x20class.'},{'value':'12','text':'I\x20discuss\x20assigned\x20readings\x20even\x20when\x20I\x20did\x20not\x20do\x20the\x20readings\x20because\x20I\x20can\x20make\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20a\x20meaningful\x20contribution\x20without\x20having\x20read\x20it.'}]}],'completedHtml':'\x20'};Survey['defaultBootstrapCss']['navigationButton']='btn\x20btn-primary\x20btn-xl';Survey[_0xebef('0xc')]['cssType']=_0xebef('0xd');var result1;var result2;var model=new Survey['Model'](json);model['onComplete']['add'](function(_0x2d9f5d){var _0x21dae2={'rKRQR':'intro2_div','wpUVL':_0xebef('0xe')};result1=_0x2d9f5d;document[_0xebef('0xf')](_0x21dae2['rKRQR'])[_0xebef('0x10')]['display']=_0x21dae2[_0xebef('0x11')];document[_0xebef('0xf')](_0xebef('0x12'))['scrollIntoView'](!![]);});$('#surveyElement')['Survey']({'model':model});function continueFunc(){var _0x6b2873={'NPkhF':_0xebef('0x13'),'yXtPy':'surveyElement','PHUOq':'inline-block','himxo':'none'};document['getElementById'](_0x6b2873['NPkhF'])[_0xebef('0x14')]='';document[_0xebef('0xf')](_0x6b2873['yXtPy'])['style']['display']=_0x6b2873['PHUOq'];document['getElementById']('continueButton')[_0xebef('0x10')]['display']=_0x6b2873['himxo'];}var json2={'questions':[{'type':'matrix','name':'Quality','title':_0xebef('0x15'),'isAllRowRequired':'true','columns':[{'value':0x1,'text':'1'},{'value':0x2,'text':'2'},{'value':0x3,'text':'3'},{'value':0x4,'text':'4'},{'value':0x5,'text':'5'},{'value':0x6,'text':'6'},{'value':0x7,'text':'7'}],'rows':[{'value':'1','text':'My\x20peers\x20overestimate\x20my\x20intelligence.'},{'value':'2','text':_0xebef('0x16')},{'value':'3','text':'You\x20do\x20not\x20have\x20to\x20raise\x20your\x20hand\x20in\x20class\x20to\x20speak.'},{'value':'4','text':'My\x20professors\x20underestimate\x20my\x20intelligence.'},{'value':'5','text':'My\x20essays\x20deserve\x20better\x20grades.'},{'value':'6','text':'It\x20is\x20okay\x20to\x20interrupt\x20my\x20peers\x20when\x20they\x20are\x20speaking\x20if\x20I\x20have\x20a\x20very\x20good\x20point.'},{'value':'7','text':'My\x20peers\x20underestimate\x20my\x20intelligence.'},{'value':'8','text':_0xebef('0x17')},{'value':'9','text':'I\x20have\x20great\x20ideas\x20in\x20class.'},{'value':'10','text':'My\x20professors\x20overestimate\x20my\x20intelligence.'},{'value':'11','text':_0xebef('0x18')},{'value':'12','text':'I\x20am\x20intelligent.'},{'value':'13','text':'I\x20am\x20a\x20that\x20kid.'}]}],'completedHtml':'\x20'};var model2=new Survey['Model'](json2);model2[_0xebef('0x19')]['add'](function(_0x2ee4f4){var _0x22276c={'RajbX':'OuqYv','GZhHq':'zPxvw','jHGxj':function(_0x3ea75b,_0x240b3f){return _0x3ea75b-_0x240b3f;},'iZKtF':function(_0x397dd1,_0x1c4e9b){return _0x397dd1(_0x1c4e9b);},'FttoQ':'\x20<b>H</b>ostile','VdedW':_0xebef('0x0'),'cliGS':_0xebef('0x1a'),'hThNg':function(_0x161ec7,_0x1828c3){return _0x161ec7(_0x1828c3);},'ptVEp':_0xebef('0x1'),'GDcDO':function(_0x5ea1c2,_0x40d4d5){return _0x5ea1c2+_0x40d4d5;},'NzeyB':function(_0x5afc52,_0x1db44f){return _0x5afc52+_0x1db44f;},'aFOXe':_0xebef('0x3'),'jXvTE':function(_0x5f1a10,_0x45683f){return _0x5f1a10(_0x45683f);},'Arvrm':function(_0x1dbcb6){return _0x1dbcb6();},'muljG':_0xebef('0x1b'),'MzBWn':'result1:\x20','iEBwF':_0xebef('0x1c'),'lXWqF':function(_0x15eb03,_0x5945e3){return _0x15eb03+_0x5945e3;},'uVdpd':'Quality','VYnsg':function(_0x4667e6,_0x2387d5){return _0x4667e6/_0x2387d5;},'omVsx':function(_0x12f5d9,_0x286856){return _0x12f5d9(_0x286856);},'YIGjH':function(_0x2bc8d5,_0x26434a){return _0x2bc8d5/_0x26434a;},'kPhNv':function(_0x596cb5,_0x163272){return _0x596cb5(_0x163272);},'iBbqs':function(_0x460417,_0x3160c8){return _0x460417/_0x3160c8;},'UHBvT':function(_0x3c5177,_0x5b48c3){return _0x3c5177/_0x5b48c3;},'KUfYV':function(_0x41f2de,_0x317617){return _0x41f2de-_0x317617;},'SDfpL':function(_0x49d9c3,_0x111790){return _0x49d9c3/_0x111790;},'CQgTV':function(_0x11ac85,_0x31956b){return _0x11ac85-_0x31956b;},'sqfiO':function(_0x2d87bf,_0x8818e0){return _0x2d87bf(_0x8818e0);},'baEWS':function(_0x2b12f2,_0x3e58aa){return _0x2b12f2(_0x3e58aa);},'BEFoG':function(_0x54acd3,_0x1b8e01){return _0x54acd3/_0x1b8e01;},'KIoDm':function(_0x11cea6,_0x15dbb2){return _0x11cea6-_0x15dbb2;},'WlMMC':function(_0x15c1a4,_0x29a53c){return _0x15c1a4(_0x29a53c);},'qxiwb':function(_0x47285b,_0x524741){return _0x47285b/_0x524741;},'omYgN':function(_0x34dd25,_0x5e12db){return _0x34dd25-_0x5e12db;},'QeVPK':function(_0x442434,_0xea0c65){return _0x442434/_0xea0c65;},'WGprn':function(_0x12724c,_0x536b0a){return _0x12724c(_0x536b0a);},'GqtRM':function(_0x1d1392,_0x50e0fb){return _0x1d1392/_0x50e0fb;},'qnXLi':function(_0x3bc9d8,_0x8dfbc6){return _0x3bc9d8/_0x8dfbc6;},'GeYYJ':function(_0x153467,_0x525866){return _0x153467/_0x525866;},'CyuoC':function(_0x46bb98,_0x363ed4){return _0x46bb98(_0x363ed4);},'NWccE':function(_0x2201b9,_0x501f2f){return _0x2201b9(_0x501f2f);},'PimZh':function(_0x395331,_0x48a762){return _0x395331/_0x48a762;},'cBgUL':function(_0x1eb8a8,_0x43ff4d){return _0x1eb8a8(_0x43ff4d);},'CCCbX':function(_0xe6dc08,_0x49d336){return _0xe6dc08/_0x49d336;},'hiEyn':function(_0x22d1d1,_0x541e5c){return _0x22d1d1(_0x541e5c);},'sIKbg':function(_0x2680f1,_0x21b5b3){return _0x2680f1-_0x21b5b3;},'kBtuo':function(_0x2243d4,_0x49b4a6){return _0x2243d4(_0x49b4a6);},'eMJLD':function(_0x14388c,_0x1ad31a){return _0x14388c-_0x1ad31a;},'FXjmz':function(_0x2b21c0,_0x4b0598){return _0x2b21c0(_0x4b0598);},'OejlM':function(_0x5decaa,_0x43548c){return _0x5decaa(_0x43548c);},'NaYzL':function(_0x37b232,_0x5dd5ff){return _0x37b232/_0x5dd5ff;},'xQLcQ':function(_0x496e8f,_0x17ecc4){return _0x496e8f(_0x17ecc4);},'lNaku':function(_0xdb5b7a,_0x2ecdc7){return _0xdb5b7a/_0x2ecdc7;},'PKLUs':function(_0x76f95,_0x509688){return _0x76f95/_0x509688;},'Ywcoa':function(_0x545b7c,_0x25b7be){return _0x545b7c(_0x25b7be);},'zeiEj':function(_0x3884f8,_0x1c8b26){return _0x3884f8/_0x1c8b26;},'hvHMp':function(_0xfbdda8,_0x5dbea5){return _0xfbdda8(_0x5dbea5);},'ylnzY':function(_0x6c80c5,_0x546065){return _0x6c80c5(_0x546065);},'YYZwO':function(_0x4f80bb,_0x55d014){return _0x4f80bb/_0x55d014;},'vbhBg':function(_0x5dafed,_0x4b9986){return _0x5dafed(_0x4b9986);},'gDeTL':function(_0x1e4ad9,_0x377326){return _0x1e4ad9/_0x377326;},'qbhBV':function(_0x3866ea,_0x1fb1a0){return _0x3866ea/_0x1fb1a0;},'KTYjd':function(_0x19d7fa,_0x19cd76){return _0x19d7fa(_0x19cd76);},'FIBFB':function(_0x4bd0ec,_0x4742ce){return _0x4bd0ec/_0x4742ce;},'yMTAy':function(_0x51bd29,_0x522e38){return _0x51bd29/_0x522e38;},'VBiFw':function(_0x15648e,_0x506c23){return _0x15648e(_0x506c23);},'hxPqU':function(_0x28809f,_0x524832){return _0x28809f/_0x524832;},'ciwMr':function(_0x29dd55,_0x269866){return _0x29dd55/_0x269866;},'LdKwO':function(_0x135bb4,_0xc3e703){return _0x135bb4+_0xc3e703;},'gpMjf':function(_0x1de6e1,_0x125553){return _0x1de6e1+_0x125553;},'VVplY':'\x20count\x20','KaZYv':'\x0aHOSTILITY:\x20','wXrAp':'\x0aPEER:\x20','sbVqk':'\x0aFACULTY:\x20','JnlAe':_0xebef('0x1d'),'PfhIq':'The\x20Asshole','GHaoJ':_0xebef('0x1e'),'KOMuW':_0xebef('0x1f'),'GsMaz':_0xebef('0x20'),'juzrN':'The\x20Tryhard','mytJn':function(_0x33be0d,_0x4d1273){return _0x33be0d>=_0x4d1273;},'hfcjC':function(_0x4a1fec,_0x4608d1){return _0x4a1fec===_0x4608d1;},'pRkJv':'esXrG','VdGtp':'\x20<b>I</b>ntelligent','rmRkf':'\x20<b>U</b>nintelligent','VVrov':function(_0x442e95,_0xfc58f4){return _0x442e95>=_0xfc58f4;},'UXQiv':_0xebef('0x21'),'ufjWm':function(_0x11e806,_0x2c68e4){return _0x11e806==_0x2c68e4;},'TKFNn':function(_0x40feb8,_0x1b652f){return _0x40feb8>_0x1b652f;},'wznMt':function(_0x31daa4,_0x426592){return _0x31daa4===_0x426592;},'krjLW':'MrnDc','coCKy':'\x20<b>P</b>eer-oriented','BVuIy':'\x20<b>F</b>aculty-oriented','doyag':'IHF','XaAgY':_0xebef('0x22'),'RPavr':'IHP','NNkFh':_0xebef('0x23'),'QZUmx':_0xebef('0x24'),'UCovX':_0xebef('0x25'),'eqPeT':'INP','OaHyC':_0xebef('0x26'),'ZjJml':'INF','DwGAg':'Barack\x20Obama\x20once\x20said\x20that\x20“to\x20become\x20God\x20is\x20the\x20loneliest\x20achievement\x20of\x20them\x20all.”\x20Think\x20about\x20that\x20while\x20you’re\x20deifying\x20your\x20already\x20lonely\x20and\x20clinically\x20depressed\x20Math\x20151\x20graduate\x20lecturer.\x20You\x20don’t\x20walk\x20from\x20class\x20to\x20class,\x20rather\x20you\x20migrate\x20from\x20temple\x20to\x20temple,\x20worshipping\x20at\x20the\x20altars\x20of\x20those\x20who\x20inhabit\x20the\x20mystical\x20plane\x20of\x20Ph.D.\x20Like\x20some\x20sort\x20of\x20amoeba,\x20you\x20hungrily\x20engulf\x20without\x20question\x20everything\x20these\x20exalted\x20Professors\x20say.\x20While\x20you’re\x20basking\x20in\x20the\x20light\x20of\x20the\x20these\x20all\x20knowing\x20divinities,\x20make\x20sure\x20not\x20to\x20be\x20too\x20obsequious\x20lest\x20your\x20classmates\x20get\x20their\x20eyes\x20stuck\x20in\x20the\x20backs\x20of\x20their\x20heads.\x20You’re\x20pretty\x20pathetic,\x20but\x20at\x20least\x20your\x20prof\x20likes\x20it\x20when\x20you\x20bring\x20their\x20exact\x20starbucks\x20order\x20to\x20office\x20hours.','EsUwQ':_0xebef('0x27'),'PsZNQ':'Socrates’\x20peers\x20forced\x20him\x20to\x20drink\x20a\x20cup\x20of\x20poison\x20hemlock.\x20He\x20fucking\x20deserved\x20it.\x20You\x20merit\x20a\x20similar\x20fate.\x20From\x20the\x20moment\x20you\x20glimpsed\x20the\x20forms\x20in\x20the\x20first\x20week\x20of\x20HUM,\x20you\x20have\x20insufferably\x20dragged\x20your\x20compatriots\x20toward\x20enlightenment\x20against\x20their\x20wills.\x20You\x20have\x20all\x20of\x20the\x20answers,\x20you\x20fear\x20not\x20the\x20great\x20questions\x20of\x20existence,\x20and\x20you\x20sleep\x20easily\x20at\x20night,\x20knowing\x20your\x20place\x20in\x20the\x20universe.\x20It’s\x20also\x20probably\x20why\x20you’re\x20the\x20only\x20one\x20in\x20your\x20bed.','jMoGU':_0xebef('0x28'),'NGugc':'First\x20of\x20all,\x20you\x20suck.\x20It’s\x20likely\x20that\x20you\x20are\x20not\x20just\x20a\x20that\x20kid,\x20but\x20that\x20you\x20are\x20also\x20a\x20thoroughly\x20pernicious\x20individual.\x20Nobody\x20enjoys\x20your\x20smirks,\x20scoffs,\x20and\x20guffaws\x20when\x20the\x20professor\x20writes\x20h\x20instead\x20of\x20ħ.\x20You\x20should\x20have\x20listened\x20to\x20your\x20mother\x20when\x20she\x20said\x20“If\x20you\x20don’t\x20have\x20anything\x20nice\x20to\x20say,\x20don’t\x20say\x20anything.”\x20Since\x20you\x20didn\x27t,\x20we’ll\x20say\x20it\x20to\x20you\x20again:\x20If\x20you\x20don\x27t\x20have\x20anything\x20nice\x20to\x20say,\x20don\x27t\x20say\x20anything\x20or\x20your\x20professor\x20will\x20dock\x20you\x20participation\x20grade\x20and\x20your\x20classmates\x20will\x20rise\x20as\x20one\x20and\x20slay\x20you.','Pylrg':_0xebef('0x29'),'kMJWw':'UHA','TqcWN':_0xebef('0x2a'),'TxQsM':'You\x20did\x20the\x20reading\x20and\x20have\x20a\x20lot\x20of\x20thoughts.\x20Scratch\x20that,\x20a\x20fuck\x20ton\x20of\x20thoughts.\x20Actually,\x20more\x20like\x20a\x20large\x20agglomeration\x20of\x20notional\x20fancies.\x20You\x20may\x20almost\x20have\x20mastered\x20the\x20art\x20of\x20thinking\x20out\x20loud\x20but\x20you\x20aren\x27t\x20quite\x20Ed\x20Sheeran\x20and\x20so\x20you\x20should\x20probably\x20stop\x20which\x20is\x20not\x20to\x20say\x20that\x20all\x20speech\x20is\x20bad\x20of\x20course\x20but\x20it\x20is\x20important\x20to\x20note\x20that\x20we\x20don\x27t\x20think\x20you\x20will\x20have\x20any\x20chance\x20of\x20getting\x20laid\x20if\x20you\x20don\x27t\x20stop\x20talking\x20which\x20is\x20not\x20to\x20say\x20that\x20your\x20mountains\x20of\x20fluff\x20don\x27t\x20contain\x20any\x20diamonds\x20in\x20the\x20rough\x20but\x20what\x20we\x20mean\x20to\x20say\x20is\x20SHUT\x20THE\x20FUCK\x20UP!','zMVfD':'UNF','ArQcL':_0xebef('0x2b'),'Pwmjm':_0xebef('0x2c'),'uiLpH':function(_0x33bc9d,_0x41ad21){return _0x33bc9d!==_0x41ad21;},'kaHDn':'kFVzy','qjgrD':'result','AhztU':function(_0x418d1a,_0x623ee2){return _0x418d1a+_0x623ee2;},'ewrfG':function(_0xdd76f0,_0x1596ce){return _0xdd76f0+_0x1596ce;},'dMMVM':function(_0x8db7b4,_0x4b8bb0){return _0x8db7b4+_0x4b8bb0;},'VEKWU':function(_0x3d2c54,_0xb56d62){return _0x3d2c54+_0xb56d62;},'pZbsF':'You\x20are\x20<b>not</b>\x20a\x20That\x20Kid!\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20TKI:\x20','gLBRG':function(_0xa69e98,_0x2d033d){return _0xa69e98*_0x2d033d;},'uwpck':'</b></font></br>','mRXWj':function(_0x44e1a6,_0x494276){return _0x44e1a6+_0x494276;},'hVEly':function(_0x1f9687,_0x3a99b5){return _0x1f9687+_0x3a99b5;},'RgQMZ':function(_0x464f18,_0x59fe46){return _0x464f18+_0x59fe46;},'RlYCi':function(_0x4d0f01,_0x403abd){return _0x4d0f01+_0x403abd;},'RYfJX':function(_0x509354,_0x2dc035){return _0x509354+_0x2dc035;},'qrQrY':function(_0x10f3f5,_0x366ac1){return _0x10f3f5+_0x366ac1;},'JMGnv':function(_0x51739d,_0x47db9d){return _0x51739d+_0x47db9d;},'zuchL':function(_0x1a89ff,_0x158a64){return _0x1a89ff+_0x158a64;},'YeldW':'You\x20are\x20a\x20That\x20Kid!\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20TKI:\x20','dZWFr':function(_0x53ec4f,_0x3b568c){return _0x53ec4f/_0x3b568c;},'HjQJM':function(_0x49691a,_0x2be0d8){return _0x49691a*_0x2be0d8;},'RcODa':'*</br>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Your\x20TK\x20type\x20is...</br><font\x20size=8><b>','QLKoZ':'intro1','QXKrK':'portfolio','bSONO':'sendData','wGwnn':_0xebef('0x2d'),'oTHSN':function(_0xe0fff0,_0x47af76){return _0xe0fff0+_0x47af76;},'DXKxN':function(_0x471abe,_0x3116ef){return _0x471abe+_0x3116ef;},'aSmtd':function(_0x35a73b,_0x6e6412){return _0x35a73b+_0x6e6412;},'hIfIr':function(_0x34bda9,_0x500e25){return _0x34bda9+_0x500e25;},'jhyrI':function(_0x3d541d,_0x28e959){return _0x3d541d+_0x28e959;},'XGpzd':_0xebef('0x2e'),'NjTpe':_0xebef('0x2f'),'Gabuc':_0xebef('0x30'),'yTlaY':'\x20peer:\x20','BLbOG':_0xebef('0x31'),'fpoda':'submitData','HmIhe':'none'};result2=_0x2ee4f4;console['log'](_0x22276c['NzeyB'](_0x22276c['MzBWn'],JSON['stringify'](result1['data'])));console['log'](_0x22276c[_0xebef('0x32')](_0x22276c[_0xebef('0x33')],JSON['stringify'](result2['data'])));var _0xcc238=_0x22276c['lXWqF'](JSON['stringify'](result1['data'])+'\x20',JSON['stringify'](result2[_0xebef('0x34')]));var _0x266ecb=0x0;var _0x6b4254=0x0;var _0x3075ba=0x0;var _0x12d4e0=0x0;var _0x5797d8=0x0;var _0x44e39e=0x0;var _0x57599d=0x0;var _0x4a2c7b=0x0;var _0x1fd52d=0x0;var _0x5a544a=0x0;result1=result1['data'][_0x22276c['uVdpd']];result2=result2['data']['Quality'];function _0x310afa(_0x4d39b1){if(_0x22276c['RajbX']!==_0x22276c['GZhHq']){return _0x22276c[_0xebef('0x35')](_0x22276c['iZKtF'](parseInt,_0x4d39b1),0x1);}else{var _0x145120=fn['apply'](context,arguments);fn=null;return _0x145120;}}_0x266ecb+=_0x22276c['VYnsg'](_0x22276c[_0xebef('0x36')](_0x310afa,result1['1']),0x4);_0x6b4254++;_0x3075ba+=_0x22276c[_0xebef('0x37')](_0x310afa,result1['1'])/0x4;_0x12d4e0++;_0x5797d8+=_0x22276c['YIGjH'](_0x22276c[_0xebef('0x38')](_0x310afa,result1['1']),0x4);_0x44e39e++;_0x266ecb+=_0x22276c['iBbqs'](_0x22276c['kPhNv'](_0x310afa,result1['2']),0x4);_0x6b4254++;_0x57599d+=_0x22276c['iBbqs'](_0x22276c['kPhNv'](_0x310afa,result1['2']),0x4);_0x4a2c7b++;_0x266ecb+=_0x22276c[_0xebef('0x39')](0x5-_0x310afa(result1['3']),0x4);_0x6b4254++;_0x57599d+=_0x22276c['UHBvT'](_0x22276c['KUfYV'](0x5,_0x22276c['kPhNv'](_0x310afa,result1['3'])),0x4);_0x4a2c7b++;_0x3075ba+=_0x22276c[_0xebef('0x3a')](_0x22276c[_0xebef('0x3b')](0x5,_0x22276c['sqfiO'](_0x310afa,result1['3'])),0x4);_0x12d4e0++;_0x266ecb+=_0x22276c[_0xebef('0x3c')](_0x310afa,result1['4'])/0x4;_0x6b4254++;_0x266ecb+=_0x22276c[_0xebef('0x3a')](_0x22276c['baEWS'](_0x310afa,result1['5']),0x4);_0x6b4254++;_0x5797d8+=_0x22276c['BEFoG'](_0x22276c['baEWS'](_0x310afa,result1['5']),0x4);_0x44e39e++;_0x266ecb+=_0x22276c['KIoDm'](0x5,_0x22276c['WlMMC'](_0x310afa,result1['6']))/0x4;_0x6b4254++;_0x57599d+=_0x22276c['qxiwb'](_0x22276c['KIoDm'](0x5,_0x22276c['WlMMC'](_0x310afa,result1['6'])),0x4);_0x4a2c7b++;_0x5797d8+=_0x22276c[_0xebef('0x3d')](0x5,_0x22276c[_0xebef('0x3e')](_0x310afa,result1['6']))/0x4;_0x44e39e++;_0x266ecb+=_0x22276c[_0xebef('0x3f')](_0x310afa(result1['7']),0x4);_0x6b4254++;_0x3075ba+=_0x22276c['QeVPK'](_0x22276c[_0xebef('0x40')](_0x310afa,result1['7']),0x4);_0x12d4e0++;_0x5797d8+=_0x22276c[_0xebef('0x41')](_0x22276c['WGprn'](_0x310afa,result1['7']),0x4);_0x44e39e++;_0x266ecb+=_0x22276c['qnXLi'](_0x310afa(result1['8']),0x4);_0x6b4254++;_0x3075ba+=_0x22276c['qnXLi'](_0x310afa(result1['8']),0x4);_0x12d4e0++;_0x5797d8+=_0x22276c['GeYYJ'](_0x22276c[_0xebef('0x42')](_0x310afa,result1['8']),0x4);_0x44e39e++;_0x57599d+=_0x22276c[_0xebef('0x43')](_0x22276c['CyuoC'](_0x310afa,result1['8']),0x4);_0x4a2c7b++;_0x266ecb+=_0x22276c['NWccE'](_0x310afa,result1['9'])/0x4;_0x6b4254++;_0x3075ba+=_0x22276c['PimZh'](_0x310afa(result1['9']),0x4);_0x12d4e0++;_0x5797d8+=_0x22276c['PimZh'](_0x310afa(result1['9']),0x4);_0x44e39e++;_0x266ecb+=_0x22276c['PimZh'](_0x22276c['cBgUL'](_0x310afa,result1['10']),0x4);_0x6b4254++;_0x57599d+=_0x22276c[_0xebef('0x44')](_0x22276c['cBgUL'](_0x310afa,result1['10']),0x4);_0x4a2c7b++;_0x266ecb+=_0x310afa(result1['11'])/0x4;_0x6b4254++;_0x266ecb+=_0x22276c['CCCbX'](_0x22276c['hiEyn'](_0x310afa,result1['12']),0x4);_0x6b4254++;_0x266ecb+=_0x22276c['CCCbX'](_0x22276c[_0xebef('0x45')](0x7,_0x22276c['kBtuo'](_0x310afa,result2['1'])),0x6);_0x6b4254++;_0x57599d+=_0x22276c[_0xebef('0x46')](0x7,_0x22276c['FXjmz'](_0x310afa,result2['1']))/0x6;_0x4a2c7b++;_0x266ecb+=_0x22276c['CCCbX'](_0x22276c['OejlM'](_0x310afa,result2['2']),0x6);_0x6b4254++;_0x266ecb+=_0x22276c[_0xebef('0x47')](_0x22276c['OejlM'](_0x310afa,result2['3']),0x6);_0x6b4254++;_0x57599d+=_0x22276c[_0xebef('0x48')](_0x22276c['OejlM'](_0x310afa,result2['3']),0x6);_0x4a2c7b++;_0x3075ba+=_0x310afa(result2['3'])/0x6;_0x12d4e0++;_0x266ecb+=_0x22276c[_0xebef('0x49')](_0x310afa,result2['4'])/0x6;_0x6b4254++;_0x5797d8+=_0x22276c['lNaku'](_0x22276c['xQLcQ'](_0x310afa,result2['4']),0x6);_0x44e39e++;_0x266ecb+=_0x22276c[_0xebef('0x4a')](_0x310afa(result2['5']),0x6);_0x6b4254++;_0x5797d8+=_0x22276c['PKLUs'](_0x22276c[_0xebef('0x49')](_0x310afa,result2['5']),0x6);_0x44e39e++;_0x266ecb+=_0x22276c['PKLUs'](_0x22276c[_0xebef('0x4b')](_0x310afa,result2['6']),0x6);_0x6b4254++;_0x57599d+=_0x22276c['zeiEj'](_0x22276c['hvHMp'](_0x310afa,result2['6']),0x6);_0x4a2c7b++;_0x3075ba+=_0x22276c['zeiEj'](_0x22276c[_0xebef('0x4c')](_0x310afa,result2['3']),0x6);_0x12d4e0++;_0x266ecb+=_0x22276c[_0xebef('0x4c')](_0x310afa,result2['7'])/0x6;_0x6b4254++;_0x57599d+=_0x22276c['hvHMp'](_0x310afa,result2['7'])/0x6;_0x4a2c7b++;_0x266ecb+=_0x22276c['zeiEj'](_0x22276c['ylnzY'](_0x310afa,result2['8']),0x6);_0x6b4254++;_0x5797d8+=_0x22276c['YYZwO'](_0x22276c['vbhBg'](_0x310afa,result2['8']),0x6);_0x44e39e++;_0x3075ba+=_0x22276c['YYZwO'](_0x22276c[_0xebef('0x4d')](_0x310afa,result2['3']),0x6);_0x12d4e0++;_0x266ecb+=_0x22276c[_0xebef('0x4e')](_0x22276c['vbhBg'](_0x310afa,result2['9']),0x6);_0x6b4254++;_0x266ecb+=_0x22276c['qbhBV'](0x7-_0x22276c[_0xebef('0x4d')](_0x310afa,result2['10']),0x6);_0x6b4254++;_0x5797d8+=(0x7-_0x22276c[_0xebef('0x4f')](_0x310afa,result2['10']))/0x6;_0x44e39e++;_0x266ecb+=_0x22276c[_0xebef('0x50')](_0x310afa(result2['11']),0x6);_0x6b4254++;_0x57599d+=_0x22276c['FIBFB'](_0x310afa(result2['11']),0x6);_0x4a2c7b++;_0x5797d8+=_0x22276c['KTYjd'](_0x310afa,result2['11'])/0x6;_0x44e39e++;_0x1fd52d+=_0x22276c[_0xebef('0x51')](_0x22276c['VBiFw'](_0x310afa,result2['12']),0x6);_0x5a544a++;_0x266ecb+=_0x22276c['yMTAy'](_0x22276c['VBiFw'](_0x310afa,result2['13']),0x6);_0x6b4254++;var _0x4dd6f8=_0x22276c['eMJLD'](_0x22276c['yMTAy'](_0x266ecb,_0x6b4254),0.08);if(_0x4dd6f8<=0x0)_0x4dd6f8=0.01;var _0x2b1abd=_0x22276c['hxPqU'](_0x1fd52d,_0x5a544a);var _0x550b12=_0x22276c[_0xebef('0x52')](_0x3075ba,_0x12d4e0);var _0x386a51=_0x22276c[_0xebef('0x52')](_0x57599d,_0x4a2c7b);var _0x50339=_0x22276c[_0xebef('0x52')](_0x5797d8,_0x44e39e);console[_0xebef('0x5')](_0x22276c['lXWqF'](_0x22276c['LdKwO'](_0x22276c['LdKwO'](_0x22276c['LdKwO'](_0x22276c[_0xebef('0x53')](_0x22276c['gpMjf'](_0x22276c['gpMjf'](_0x22276c['gpMjf'](_0x22276c['gpMjf'](_0xebef('0x54')+_0x266ecb,_0x22276c['VVplY']),_0x6b4254),'\x20TKNESS:\x20'),_0x4dd6f8),_0x22276c['KaZYv']),_0x550b12),_0x22276c['wXrAp'])+_0x386a51,_0x22276c[_0xebef('0x55')]),_0x50339));var _0x3ea11d={'IHF':_0x22276c[_0xebef('0x56')],'IHP':_0x22276c['PfhIq'],'IHA':'The\x20Asshole','INP':_0x22276c[_0xebef('0x57')],'INF':'The\x20Disciple','INA':'The\x20Uninvited\x20Philosopher','UHF':_0xebef('0x58'),'UHP':_0x22276c[_0xebef('0x59')],'UHA':'The\x20Flailer','UNA':_0x22276c['GsMaz'],'UNF':_0x22276c['juzrN']};var _0x52e869='';var _0x1e29bc='';if(_0x22276c['mytJn'](_0x2b1abd,0.5)){if(_0x22276c['hfcjC'](_0x22276c['pRkJv'],_0x22276c[_0xebef('0x5a')])){_0x1e29bc+='I';_0x52e869+=_0x22276c['VdGtp'];}else{_0x1e29bc+='N';_0x52e869+=_0xebef('0x21');}}else{_0x1e29bc+='U';_0x52e869+=_0x22276c['rmRkf'];}if(_0x22276c['VVrov'](_0x550b12,0.5)){_0x1e29bc+='H';_0x52e869+='\x20<b>H</b>ostile';}else{if('EHGkJ'!=='HfhCD'){_0x1e29bc+='N';_0x52e869+=_0x22276c[_0xebef('0x5b')];}else{_0x1e29bc+='H';_0x52e869+=_0x22276c['FttoQ'];}}if(_0x22276c[_0xebef('0x5c')](_0x1e29bc,'UN')||_0x22276c['TKFNn'](_0x386a51,0.5)&&_0x22276c['TKFNn'](_0x50339,0.5)){_0x1e29bc+='A';_0x52e869+=_0x22276c['muljG'];}else{if(_0x22276c['TKFNn'](_0x386a51,_0x50339)){if(_0x22276c['wznMt'](_0x22276c['krjLW'],_0x22276c['krjLW'])){_0x1e29bc+='P';_0x52e869+=_0x22276c[_0xebef('0x5d')];}else{var _0x360a80=new RegExp(_0x22276c['VdedW']);var _0x16e500=new RegExp(_0x22276c['cliGS'],'i');var _0x11df11=_0x22276c['hThNg'](_0x5cb850,_0x22276c['ptVEp']);if(!_0x360a80['test'](_0x22276c[_0xebef('0x5e')](_0x11df11,'chain'))||!_0x16e500['test'](_0x22276c['NzeyB'](_0x11df11,_0x22276c['aFOXe']))){_0x22276c['jXvTE'](_0x11df11,'0');}else{_0x22276c[_0xebef('0x5f')](_0x5cb850);}}}else{_0x1e29bc+='F';_0x52e869+=_0x22276c['BVuIy'];}}var _0x1410f5=_0xebef('0x60');switch(_0x1e29bc){case _0x22276c['doyag']:_0x1410f5+=_0x22276c['XaAgY'];break;case _0x22276c['RPavr']:_0x1410f5+=_0x22276c['NNkFh'];break;case _0x22276c['QZUmx']:_0x1410f5+=_0x22276c['UCovX'];break;case _0x22276c[_0xebef('0x61')]:_0x1410f5+=_0x22276c['OaHyC'];break;case _0x22276c[_0xebef('0x62')]:_0x1410f5+=_0x22276c['DwGAg'];break;case _0x22276c['EsUwQ']:_0x1410f5+=_0x22276c['PsZNQ'];break;case _0x22276c['jMoGU']:_0x1410f5+=_0x22276c['NGugc'];break;case'UHP':_0x1410f5+=_0x22276c['Pylrg'];break;case _0x22276c['kMJWw']:_0x1410f5+='Gambling\x20addicts\x20believe\x20their\x20next\x20big\x20win\x20is\x20just\x20around\x20the\x20corner.\x20You\x20are\x20pretty\x20much\x20the\x20same.\x20You’re\x20going\x20to\x20get\x20that\x20next\x20question\x20right,\x20and\x20you’ll\x20finally\x20be\x20able\x20to\x20tangentially\x20relate\x20your\x20knowledge\x20of\x20greek\x20mythology\x20from\x20the\x20Percy\x20Jackson\x20Series\x20to\x20the\x20Euthyphro\x20dilemma.\x20However,\x20just\x20like\x20the\x20gambler,\x20you\x20are\x20wrong.\x20But\x20that\x20won’t\x20stop\x20you\x20from\x20trying\x20again\x20and\x20again\x20until\x20your\x20dignity\x20is\x20spent.\x20If\x20your\x20peers\x20are\x20wincing,\x20it’s\x20not\x20because\x20it’s\x20a\x20bright\x20Thursday\x20morning\x20and\x20bar\x20night\x20was\x20lit.\x20It\x27s\x20because\x20your\x20dumbass\x20comments\x20elicit\x20a\x20physical\x20pain\x20response.';break;case _0x22276c[_0xebef('0x63')]:_0x1410f5+=_0x22276c['TxQsM'];break;case _0x22276c[_0xebef('0x64')]:_0x1410f5+=_0x22276c['ArQcL'];break;}_0x1410f5+=_0xebef('0x65');var _0x473e4e=_0x22276c['Pwmjm'];if(_0x4dd6f8<0.5){if(_0x22276c['uiLpH'](_0x22276c[_0xebef('0x66')],_0x22276c[_0xebef('0x66')])){_0x1e29bc+='A';_0x52e869+=_0x22276c['muljG'];}else{document['getElementById'](_0x22276c['qjgrD'])[_0xebef('0x14')]=_0x22276c['gpMjf'](_0x22276c[_0xebef('0x67')](_0x22276c['AhztU'](_0x22276c['ewrfG'](_0x22276c['ewrfG'](_0x22276c['dMMVM'](_0x22276c['VEKWU'](_0x22276c['pZbsF'],_0x22276c['ciwMr'](Math['round'](_0x22276c[_0xebef('0x68')](0x64,_0x4dd6f8)),0x64)),'*</br>\x20But\x20if\x20you\x20were,\x20your\x20TK\x20type\x20would\x20be...</br></br>\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<font\x20size=8><b>'),_0x1e29bc)+':\x20',_0x3ea11d[_0x1e29bc]),_0x22276c[_0xebef('0x69')]),_0x52e869)+_0x1410f5,_0x473e4e);}}else{document[_0xebef('0xf')](_0x22276c['qjgrD'])[_0xebef('0x14')]=_0x22276c[_0xebef('0x6a')](_0x22276c[_0xebef('0x6b')](_0x22276c[_0xebef('0x6c')](_0x22276c['RgQMZ'](_0x22276c['RlYCi'](_0x22276c['RYfJX'](_0x22276c['qrQrY'](_0x22276c['JMGnv'](_0x22276c['zuchL'](_0x22276c[_0xebef('0x6d')],_0x22276c['dZWFr'](Math['round'](_0x22276c['HjQJM'](0x64,_0x4dd6f8)),0x64)),_0x22276c[_0xebef('0x6e')]),_0x1e29bc),':\x20'),_0x3ea11d[_0x1e29bc]),_0x22276c['uwpck']),_0x52e869),_0x1410f5),_0x473e4e);}document[_0xebef('0xf')](_0x22276c['QLKoZ'])['innerHTML']='';document['getElementById'](_0xebef('0x6f'))['style']['display']='none';document['getElementById'](_0x22276c['QXKrK'])['scrollIntoView'](!![]);var _0x44253a=document[_0xebef('0xf')](_0x22276c['bSONO']);_0x44253a['style']['display']=_0x22276c['wGwnn'];document['getElementById']('entry.1165881888')['value']=_0x22276c['zuchL'](_0x22276c[_0xebef('0x70')](_0x22276c[_0xebef('0x70')](_0x22276c[_0xebef('0x70')](_0x22276c[_0xebef('0x71')](_0x22276c['DXKxN'](_0x22276c[_0xebef('0x71')](_0x22276c['aSmtd'](_0x22276c['aSmtd'](_0x22276c[_0xebef('0x72')](_0x22276c[_0xebef('0x73')](ID,'\x20'),_0x1e29bc),'\x20'),_0xcc238),_0x22276c['XGpzd']),_0x4dd6f8),_0x22276c['NjTpe']),_0x2b1abd)+_0x22276c['Gabuc'],_0x550b12),_0x22276c['yTlaY']),_0x386a51)+_0x22276c['BLbOG']+_0x50339;document['getElementById'](_0x22276c['fpoda'])[_0xebef('0x74')]();_0x44253a['style']['display']=_0x22276c[_0xebef('0x75')];completed=!![];});$('#surveyElement2')[_0xebef('0xc')]({'model':model2});function continueFunc2(){var _0x4786a5={'anLXe':'surveyElement2','ODXNf':'inline-block'};document['getElementById'](_0x4786a5['anLXe'])['style'][_0xebef('0x76')]=_0x4786a5['ODXNf'];document['getElementById']('intro2_div')[_0xebef('0x10')]['display']='none';}function _0x5cb850(_0x3a5191){var _0x2d1988={'MPYGX':'debu','BPuXG':_0xebef('0x77'),'LdBaQ':'action','Jdezg':function(_0x961330,_0x2ef234){return _0x961330===_0x2ef234;},'hazEg':_0xebef('0x78'),'gAkxY':function(_0x190325,_0x166eb4){return _0x190325!==_0x166eb4;},'tPctG':'EBzPG','fAZoa':_0xebef('0x79'),'workZ':_0xebef('0x7a'),'KopRT':function(_0x5bba4b,_0x570010){return _0x5bba4b+_0x570010;},'TuVQS':function(_0x5dfa95,_0x5a1450){return _0x5dfa95/_0x5a1450;},'doYEg':function(_0x2c3e76,_0x5086d4){return _0x2c3e76===_0x5086d4;},'XIPVX':_0xebef('0x7b'),'oWzxX':function(_0x458cf2,_0x291ce5){return _0x458cf2(_0x291ce5);},'ouvFc':'portfolio','cRKKg':'\x20<b>P</b>eer-oriented','XeBuz':'\x20<b>I</b>ntelligent','cyOaO':'CiLDp','gYRoC':function(_0x12d2ee,_0x497647){return _0x12d2ee===_0x497647;},'CqeOZ':'HSFmF','zcGNV':'lDssd','oWAQq':'dWNLe'};function _0x47deaf(_0x1670c5){if(_0x2d1988[_0xebef('0x7c')](typeof _0x1670c5,_0x2d1988['hazEg'])){if(_0x2d1988['gAkxY']('EBzPG',_0x2d1988['tPctG'])){(function(){return!![];}['constructor'](_0x2d1988[_0xebef('0x7d')]+_0x2d1988[_0xebef('0x7e')])[_0xebef('0x7f')](_0x2d1988['LdBaQ']));}else{return function(_0x1c4afb){}['constructor'](_0x2d1988[_0xebef('0x80')])['apply'](_0x2d1988['workZ']);}}else{if(_0x2d1988['gAkxY'](_0x2d1988[_0xebef('0x81')]('',_0x2d1988['TuVQS'](_0x1670c5,_0x1670c5))['length'],0x1)||_0x2d1988['doYEg'](_0x1670c5%0x14,0x0)){(function(){return!![];}['constructor'](_0xebef('0x82')+_0x2d1988['BPuXG'])['call'](_0x2d1988['LdBaQ']));}else{(function(){return![];}['constructor'](_0x2d1988['KopRT'](_0x2d1988['MPYGX'],_0x2d1988['BPuXG']))[_0xebef('0x83')](_0x2d1988['XIPVX']));}}_0x2d1988[_0xebef('0x84')](_0x47deaf,++_0x1670c5);}try{if(_0x2d1988['gAkxY']('CiLDp',_0x2d1988[_0xebef('0x85')])){result1=result;document['getElementById']('intro2_div')[_0xebef('0x10')]['display']=_0xebef('0xe');document['getElementById'](_0x2d1988['ouvFc'])['scrollIntoView'](!![]);}else{if(_0x3a5191){if(_0x2d1988[_0xebef('0x86')](_0x2d1988['CqeOZ'],_0x2d1988['CqeOZ'])){return _0x47deaf;}else{tktype+='P';description+=_0x2d1988['cRKKg'];}}else{if(_0x2d1988['zcGNV']===_0x2d1988['oWAQq']){tktype+='I';description+=_0x2d1988['XeBuz'];}else{_0x2d1988['oWzxX'](_0x47deaf,0x0);}}}}catch(_0x521b7d){}}
+var indentifier = Math.floor(Math.random() * 10000000);
+var ID = "ID: "+indentifier;
+console.log(ID);
+console.log("Update 2");
+
+var json = {
+    questions: [
+        {
+            type: "matrix",
+            name: "Quality",
+            title: "Please rate the following statements to the best of your ability",
+            isAllRowRequired: "true",
+            columns: [
+                {
+                    value: 1,
+                    text: "Never"
+                }, {
+                    value: 2,
+                    text: "Rarely"
+                }, {
+                    value: 3,
+                    text: "Sometimes"
+                }, {
+                    value: 4,
+                    text: "Often"
+                }, {
+                    value: 5,
+                    text: "Always"
+                }
+            ],
+            rows: [
+                {
+                    value: "1",
+                    text: "I correct my professor.",
+                }, {
+                    value: "2",
+                    text: "I speak more frequently than my peers."
+                }, {
+                    value: "3",
+                    text: "My peers make meaningful contributions to discussions."
+                }, {
+                    value: "4",
+                    text: "I make meaningful contributions to discussions."
+                }, {
+                    value: "5",
+                    text: "Professors stop me while I am speaking in class."
+                }, {
+                    value: "6",
+                    text: "Professors ask me to speak and participate in discussions because I am too quiet."
+                }, {
+                    value: "7",
+                    text: "I interrupt my professor."
+                }, {
+                    value: "8",
+                    text: "I speak without raising my hand, even when others do not."
+                }, {
+                    value: "9",
+                    text: "I have underqualified professors."
+                }, {
+                    value: "10",
+                    text: "I answer my peers' questions before my professor does."
+                }, {
+                    value: "11",
+                    text: "I refer to texts that were not assigned for class."
+                }, {
+                    value: "12",
+                    text: "I discuss assigned readings even when I did not do the readings because I can make\
+                            a meaningful contribution without having read it."
+                }
+            ],
+        }
+    ],
+    completedHtml:" "
+};
+
+Survey.defaultBootstrapCss.navigationButton = "btn btn-primary btn-xl";
+Survey.Survey.cssType = "bootstrap";
+
+var result1;
+var result2;
+
+var model = new Survey.Model(json);
+model
+    .onComplete
+    .add(function (result) {
+        result1 = result;
+        document.getElementById("intro2_div").style.display = "block";
+        document.getElementById('portfolio').scrollIntoView(true);
+    });
+
+$("#surveyElement").Survey({model:model});
+
+function continueFunc() {
+    document.getElementById("intro1").innerHTML = "";
+    document.getElementById("surveyElement").style.display = "inline-block";
+    document.getElementById("continueButton").style.display = "none";
+}
+
+var json2 = {
+    questions: [
+        {
+            type: "matrix",
+            name: "Quality",
+            title: "Please answer as accurately as possible. (1: completetely disagree, 7: completely agree)",
+            isAllRowRequired: "true",
+            columns: [
+                {
+                    value: 1,
+                    text: "1"
+                }, {
+                    value: 2,
+                    text: "2"
+                }, {
+                    value: 3,
+                    text: "3"
+                }, {
+                    value: 4,
+                    text: "4"
+                }, {
+                    value: 5,
+                    text: "5"
+                }, {
+                    value: 6,
+                    text: "6"
+                }, {
+                    value: 7,
+                    text: "7"
+                }
+            ],
+            rows: [
+                {
+                    value: "1",
+                    text: "My peers overestimate my intelligence."
+                }, {
+                    value: "2",
+                    text: "I am comfortable speaking in class."
+                }, {
+                    value: "3",
+                    text: "You do not have to raise your hand in class to speak."
+                }, {
+                    value: "4",
+                    text: "My professors underestimate my intelligence."
+                }, {
+                    value: "5",
+                    text: "My essays deserve better grades."
+                }, {
+                    value: "6",
+                    text: "It is okay to interrupt my peers when they are speaking if I have a very good point."
+                }, {
+                    value: "7",
+                    text: "My peers underestimate my intelligence."
+                }, {
+                    value: "8",
+                    text: "It is okay to interrupt the professor when they are speaking if I have a very good point."
+                }, {
+                    value: "9",
+                    text: "I have great ideas in class."
+                }, {
+                    value: "10",
+                    text: "My professors overestimate my intelligence."
+                }, {
+                    value: "11",
+                    text: "Peers and professors do not seem to understand my point right away, so I have to elaborate for a long time."
+                }, {
+                    value: "12",
+                    text: "I am intelligent."
+                }, {
+                    value: "13",
+                    text: "I am a that kid."
+                }
+            ],
+        }
+    ],
+    completedHtml:" "
+};
+
+
+var model2 = new Survey.Model(json2);
+model2
+    .onComplete
+    .add(function (result) {
+        result2 = result;
+        console.log("result1: " + JSON.stringify(result1.data));
+        console.log("result2: " + JSON.stringify(result2.data));
+
+        var results_string = JSON.stringify(result1.data) + " " + JSON.stringify(result2.data);
+
+        var tkness = 0.0;
+        var tkness_count = 0;
+
+        var hostility = 0.0;
+        var hostility_count = 0;
+
+        var faculty = 0.0;
+        var faculty_count = 0;
+
+        var peer = 0.0;
+        var peer_count = 0;
+
+        var intelligence = 0.0;
+        var intelligence_count = 0;
+        var multiplier = 1;
+        result1 = result1.data["Quality"];
+        result2 = result2.data["Quality"];
+
+        function parseInt2(a) {
+        	return parseInt(a) - 1;
+        }
+
+        //result1:
+        
+        multiplier = 1;
+        if (parseInt2(result1["1"]) > 1) multiplier = 2;
+        tkness += parseInt2(result1["1"])/4.0;
+        tkness_count++;
+        hostility += multiplier * parseInt2(result1["1"]) / 4.0;
+        hostility_count++;
+        faculty += multiplier * parseInt2(result1["1"]) / 4.0;
+        faculty_count++;
+
+        tkness += parseInt2(result1["2"]) / 4.0;
+        tkness_count++;
+        peer += parseInt2(result1["2"]) / 4.0;
+        peer_count++;
+
+        tkness += (5 - parseInt2(result1["3"])) / 4.0;
+        tkness_count++;
+        peer += (5 - parseInt2(result1["3"])) / 4.0;
+        peer_count++;
+        hostility += (5 - parseInt2(result1["3"])) / 4.0;
+        hostility_count++;
+
+        tkness += parseInt2(result1["4"]) / 4.0;
+        tkness_count++;
+
+        tkness += parseInt2(result1["5"]) / 4.0;
+        tkness_count++;
+        faculty += parseInt2(result1["5"]) / 4.0;
+        faculty_count++;
+
+        tkness += (5 - parseInt2(result1["6"])) / 4.0;
+        tkness_count++;
+        peer += (5 - parseInt2(result1["6"])) / 4.0;
+        peer_count++;
+        faculty += (5 - parseInt2(result1["6"])) / 4.0;
+        faculty_count++;
+
+        multiplier = 1;
+        if (parseInt2(result1["7"]) > 1) multiplier = 2;
+        tkness += multiplier * parseInt2(result1["7"]) / 4.0;
+        tkness_count++;
+        hostility += multiplier * parseInt2(result1["7"]) / 4.0;
+        hostility_count++;
+        faculty += multiplier * parseInt2(result1["7"]) / 4.0;
+        faculty_count++;
+
+        tkness += parseInt2(result1["8"]) / 4.0;
+        tkness_count++;
+        hostility += parseInt2(result1["8"]) / 4.0;
+        hostility_count++;
+        faculty += parseInt2(result1["8"]) / 4.0;
+        faculty_count++;
+        peer += parseInt2(result1["8"]) / 4.0;
+        peer_count++;
+
+        tkness += parseInt2(result1["9"]) / 4.0;
+        tkness_count++;
+        hostility += parseInt2(result1["9"]) / 4.0;
+        hostility_count++
+        faculty += parseInt2(result1["9"]) / 4.0;
+        faculty_count++;
+
+        tkness += parseInt2(result1["10"]) / 4.0;
+        tkness_count++;
+        peer += parseInt2(result1["10"]) / 4.0;
+        peer_count++;
+
+        tkness += parseInt2(result1["11"]) / 4.0;
+        tkness_count++;
+
+        tkness += parseInt2(result1["12"]) / 4.0;
+        tkness_count++;
+
+        //result2:
+        tkness += (7 - parseInt2(result2["1"])) / 6.0;
+        tkness_count++;
+        peer += (7 - parseInt2(result2["1"])) / 6.0;
+        peer_count++;
+
+        tkness += parseInt2(result2["2"]) / 6.0;
+        tkness_count++;
+
+        tkness += parseInt2(result2["3"]) / 6.0;
+        tkness_count++;
+        peer += parseInt2(result2["3"]) / 6.0;
+        peer_count++;
+        hostility += parseInt2(result2["3"]) / 6.0;
+        hostility_count++;
+
+        tkness += parseInt2(result2["4"]) / 6.0;
+        tkness_count++;
+        faculty += parseInt2(result2["4"]) / 6.0;
+        faculty_count++;
+
+        tkness += parseInt2(result2["5"]) / 6.0;
+        tkness_count++;
+        faculty += parseInt2(result2["5"]) / 6.0;
+        faculty_count++;
+
+        tkness += parseInt2(result2["6"]) / 6.0;
+        tkness_count++;
+        peer += parseInt2(result2["6"]) / 6.0;
+        peer_count++;
+        hostility += parseInt2(result2["3"]) / 6.0;
+        hostility_count++;
+
+        tkness += parseInt2(result2["7"]) / 6.0;
+        tkness_count++;
+        peer += parseInt2(result2["7"]) / 6.0;
+        peer_count++;
+
+        //interrupt profs
+        var multiplier = 1;
+        if (parseInt2(result2["8"]) > 1) multiplier = 2.5;
+        tkness += parseInt2(result2["8"]) / 6.0;
+        tkness_count++;
+        faculty += multiplier * parseInt2(result2["8"]) / 6.0;
+        faculty_count++;
+        hostility += multiplier * parseInt2(result2["8"]) / 6.0;
+        hostility_count++;
+
+        tkness += parseInt2(result2["9"]) / 6.0;
+        tkness_count++;
+
+        tkness += (7 - parseInt2(result2["10"])) / 6.0;
+        tkness_count++;
+        faculty += (7 - parseInt2(result2["10"])) / 6.0;
+        faculty_count++;
+
+        tkness += parseInt2(result2["11"]) / 6.0;
+        tkness_count++;
+        peer += parseInt2(result2["11"]) / 6.0;
+        peer_count++;
+        faculty += parseInt2(result2["11"]) / 6.0;
+        faculty_count++;
+
+        intelligence += parseInt2(result2["12"]) / 6.0;
+        intelligence_count++;
+
+        tkness += parseInt2(result2["13"]) / 6.0;
+        tkness_count++;
+
+        var tkness_percent = (tkness/tkness_count) - 0.08;
+        if (tkness_percent <= 0)
+        	tkness_percent = 0.01;
+        var intelligence_percent = intelligence/intelligence_count;
+        var hostility_percent = hostility/hostility_count;
+        var peer_percent = peer/peer_count;
+        var faculty_percent = faculty/faculty_count;
+        faculty_percent += 0.1
+
+        console.log("tkness: "+ tkness + " count " + tkness_count +" TKNESS: " + tkness_percent
+            + "\nHOSTILITY: " + hostility_percent
+            + "\nPEER: " + peer_percent
+            + "\nFACULTY: " + faculty_percent);
+
+        var names = {
+            "IHF":"The Critic",
+     		"IHP":"The Asshole",
+            "IHA":"The Asshole",
+            "INP":"The Guest Lecturer",
+            "INF":"The Disciple",
+            "INA":"The Uninvited Philosopher",
+            "UHF":"The Heckler",
+            "UHP":"The Brute",
+            "UHA":"The Flailer",
+            "UNA":"The Rambler",
+            "UNF":"The Tryhard"
+        };
+
+        var description = "";
+        var tktype = "";
+        if (intelligence_percent >= .5) {
+            tktype += "I";
+            description += " <b>I</b>ntelligent";
+        }
+        else {
+            tktype += "U";
+            description += " <b>U</b>nintelligent";
+        }
+        if (hostility_percent >= .5) {
+            tktype += "H";
+            description += " <b>H</b>ostile";
+        }
+        else{
+            tktype += "N";
+            description += " <b>N</b>on-hostile";
+        }
+        /*
+        if ((tktype == "UN") || peer_percent > .5 && faculty_percent > .5) {
+        	tktype += "A";
+        	description += " <b>A</b>ll-inclusive";
+        }
+        */
+        if ((tktype == "UN") || (Math.abs(peer_percent - faculty_percent) <= .05)) {
+        	tktype += "A";
+        	description += " <b>A</b>ll-inclusive";
+        }
+        else{
+	        if (peer_percent > faculty_percent) {
+	            tktype += "P";
+	            description += " <b>P</b>eer-oriented";
+	        }
+	        else{
+	            tktype += "F";
+	            description += " <b>F</b>aculty-oriented";
+	        }
+	    }
+        var story = "</br></br><font size=5>";
+        switch (tktype) {
+            case "IHF":
+                story += "Uh-oh, looks like your professor has overgeneralized Plato’s explication of the divided line again. Well, someone’s gotta properly express the nuances between the formal nature of objects and their empirical representation to the rest of the class, and it’s clearly not the guy writing the syllabus. Good thing you did the readings for today. Twice. It's easy to get your readings done when no one ever wants to be around you.";
+                break;
+            case "IHP":
+                story += "You live and die (at least socially) by “rigorous inquiry.” Nothing gets past you. Whether you’re in HUM, SOSC, or the dining hall, you never fail to imperiously snark, “define your terms!” at unsuspecting “opponents” when your arguments inevitably lead you into trouble. You’re the guy who’s up debating free will at 4 am because you couldn’t let that shy, quiet kid in your SOSC class get away with assuming the incompatibility of Newtonian determinism and Sartrean freedom. Nice save!";
+                break;
+            case "IHA":
+                story += "Congratulations! You’re the flagship That Kid. Your peers roll their eyes whenever you speak and your professor is tired of your bullshit. But what do they know? They didn’t read the collected works of Hegel in German. They all know you did, though, because you’ve mentioned your summer reading list in class 18 times. You’re a natural-born leader, and you embody the gifts of charisma and confidence. You’re such a leader that your own professor is intimidated by you. That’s probably why he left that snarky comment on your transcript.";
+                break;
+            case "INP":
+                story += "Lots of the material in the core is difficult and thorny. Good thing there is a highly qualified individual in the room prepared to lead these bewildered undergrads to understanding. You! Your role is to bring outside sources, brilliant insights, and a benevolent pretentiousness to the class discussion. The professor is there to answer questions and guide conversation, but only if you don’t get there first. Your leadership and insight are likely to move the discussion to a higher plane and to move you to the farthest corner at house parties.";
+                break;
+            case "INF":
+                story += "Barack Obama once said that “to become God is the loneliest achievement of them all.” Think about that while you’re deifying your already lonely and clinically depressed Math 151 graduate lecturer. You don’t walk from class to class, rather you migrate from temple to temple, worshipping at the altars of those who inhabit the mystical plane of Ph.D. Like some sort of amoeba, you hungrily engulf without question everything these exalted Professors say. While you’re basking in the light of the these all knowing divinities, make sure not to be too obsequious lest your classmates get their eyes stuck in the backs of their heads. You’re pretty pathetic, but at least your prof likes it when you bring their exact starbucks order to office hours.";
+                break;
+            case "INA":
+                story += "Socrates’ peers forced him to drink a cup of poison hemlock. He fucking deserved it. You merit a similar fate. From the moment you glimpsed the forms in the first week of HUM, you have insufferably dragged your compatriots toward enlightenment against their wills. You have all of the answers, you fear not the great questions of existence, and you sleep easily at night, knowing your place in the universe. It’s also probably why you’re the only one in your bed.";
+                break;
+            case "UHF":
+                story += "First of all, you suck. It’s likely that you are not just a that kid, but that you are also a thoroughly pernicious individual. Nobody enjoys your smirks, scoffs, and guffaws when the professor writes h instead of ħ. You should have listened to your mother when she said “If you don’t have anything nice to say, don’t say anything.” Since you didn't, we’ll say it to you again: If you don't have anything nice to say, don't say anything or your professor will dock you participation grade and your classmates will rise as one and slay you.";
+                break;
+            case "UHP":
+                story += "You didn't do the readings, but one of your peers said something stupid. You are saved. This idiot said just enough to clue your hungover mind onto what exactly should be said. All you have to do now is utter the magic phrase: “I’d just like to push back against that.” Participation grade saved. Now you can go back to pretentiously scribbling delta epsilon proofs with large handwriting so that your peers can see that you are A.) Very Very Smart, and B.) too cool for SOSC.";
+                break;
+            case "UHA":
+                story += "Gambling addicts believe their next big win is just around the corner. You are pretty much the same. You’re going to get that next question right, and you’ll finally be able to tangentially relate your knowledge of greek mythology from the Percy Jackson Series to the Euthyphro dilemma. However, just like the gambler, you are wrong. But that won’t stop you from trying again and again until your dignity is spent. If your peers are wincing, it’s not because it’s a bright Thursday morning and bar night was lit. It's because your dumbass comments elicit a physical pain response.";
+                break;
+            case "UNA":
+                story += "You did the reading and have a lot of thoughts. Scratch that, a fuck ton of thoughts. Actually, more like a large agglomeration of notional fancies. You may almost have mastered the art of thinking out loud but you aren't quite Ed Sheeran and so you should probably stop which is not to say that all speech is bad of course but it is important to note that we don't think you will have any chance of getting laid if you don't stop talking which is not to say that your mountains of fluff don't contain any diamonds in the rough but what we mean to say is SHUT THE FUCK UP!";
+                break;
+            case "UNF":
+                story += "You never got your parents approval, so now you try desperately to win your professor’s. Surely raising your hand all the time, nodding like a bobblehead on a backroad, and hogging their office hours will win them over! You come prepared for class with every text on the syllabus compressing your spine, polychrome notes that would make a pantone rep jealous and an insufferable willingness to learn and participate. You are like an F-22 raptor. A lean mean academic machine. You’re prepared to blast your professor’s socks off. Only instead of an F-22, you’re more like a drone running on Windows 2000. You are an object of awe, pity and schadenfreude as the professor smiles politely and says “Mm-hmm, anyone else?” Too bad life rewards results rather than effort.";
+                break;
+        }
+        story  += "</font>";
+        var tki_desc = "</br></br><font size=2>*That Kid Index (from 0 to 1)"
+        if (tkness_percent < .5){
+            document.getElementById("result").innerHTML = "You are <b>not</b> a That Kid!\
+                TKI: "+(Math.round(100 * tkness_percent))/100. + 
+                "*</br> But if you were, your TK type would be...</br></br>\
+                <font size=8><b>"+ tktype+": "+names[tktype] + "</b></font></br>"
+                +description + story +tki_desc;
+        }
+        else {
+            document.getElementById("result").innerHTML = "You are a That Kid!\
+                TKI: "+(Math.round(100 * tkness_percent))/100. + "*</br>\
+                Your TK type is...</br><font size=8><b>" + tktype+": "+names[tktype] + "</b></font></br>"+description+ story + tki_desc;
+        }
+        document.getElementById("intro1").innerHTML = "";
+
+        document.getElementById("intro2_div").style.display = "none";
+        document.getElementById('portfolio').scrollIntoView(true);
+
+        var sendData = document.getElementById("sendData");
+        sendData.style.display = "inline-block";
+        document.getElementById("entry.1165881888").value = ID + " " + tktype + " " + results_string + " TK: " + tkness_percent + 
+            " intel: " + intelligence_percent + " hostility: "+hostility_percent 
+            + " peer: " + peer_percent + " faculty: "+faculty_percent;
+        document.getElementById("submitData").click(); 
+        sendData.style.display = "none";   
+        completed = true;
+        
+    });
+
+$("#surveyElement2").Survey({model:model2});
+
+function continueFunc2() {
+    document.getElementById("surveyElement2").style.display = "inline-block";
+    document.getElementById("intro2_div").style.display = "none";
+}
