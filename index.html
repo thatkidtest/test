@@ -1,1 +1,159 @@
-Site under construction. Check back soon! 
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Are you a that kid?</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+
+    <!-- Plugin CSS -->
+    <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet" type="text/css">
+
+    <!-- Custom styles for this template -->
+    <link href="css/freelancer.min.css" rel="stylesheet">
+
+  </head>
+
+  <body id="page-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg bg-secondary fixed-top text-uppercase" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">The That Kid Test</a>
+        <button class="navbar-toggler navbar-toggler-right text-uppercase bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">The Test</a>
+            </li>
+            <li class="nav-item mx-0 mx-lg-1">
+              <a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Header -->
+    <header class="masthead bg-primary text-white text-center">
+      <div class="container">
+        
+        <h1 class="text-uppercase mb-0">Are you a that kid?</h1>
+        <hr class="star-light">
+        <h2 class="font-weight-light mb-0">A Scientific, Peer-Reviewed Test to Evaluate Your TK Type</h2>
+      </div>
+    </header>
+
+    <!-- The Test -->
+    <section class="portfolio" id="portfolio">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-secondary mb-0">The Test</h2>
+        <hr class="star-dark mb-5">
+        <center><font size="5"><p id="result"> </p></font></center>
+        <p id="intro1"> <font size="4"> In the first part of this survey, you will read a series of statements that describe 
+            possible scenarios and behavior in the classroom. After reading each statement carefully, 
+            please choose the option that best represents your experience or behavior in a discussion-based class. </br></br>
+            When you are ready to proceed, please press continue. </font>
+            </p></br>
+        <button class="btn btn-primary btn-xl" id="continueButton" onclick="continueFunc()">Continue</button>
+
+        <div id="intro2_div" style="display: none;">
+          <p id="intro2"> <font size="4">
+            Thank you very much for your response. </br></br>
+            In the second part of this survey, you will read a series of classroom-related statements.
+            After reading each statement carefully, please indicate how much you agree or disagree with the statement on a scale of 1 to 7. </br></br>
+            When you are ready to proceed, please press continue.
+
+          </font>
+            </p></br>
+          <button class="btn btn-primary btn-xl" id="continueButton2" onclick="continueFunc2()">Continue</button>
+        </div>
+
+        <div id="surveyElement" style="display: none"></div>
+        <div id="surveyElement2" style="display: none"></div>
+
+        <script type="text/javascript">var submitted=false;</script>
+        <form style="display: none" name="gform" id="sendData" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScE7yqweHkNPEyWL8VrdD2P6zp9727K2yEhanxYs0WliiYgUQ//formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
+          <input type="text" name="entry.1165881888" id="entry.1165881888"><br>
+          <input type="submit" id="submitData" value="Submit">
+        </form>
+        <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+
+        </div>
+  
+      </div>
+    </section>
+
+    <!-- About Section -->
+    <section class="bg-primary text-white mb-0" id="about">
+      <div class="container">
+        <h2 class="text-center text-uppercase text-white">About</h2>
+        <hr class="star-light mb-5">
+        <div class="row">
+          <div class="col-lg-4 ml-auto">
+            <p class="lead">The TK Test is based on decades of psychological research at the University of Chicago and builds upon the work of respected scientists such as Isabel Briggs Myers and Katherine Cook Briggs.
+            </p>
+          </div>
+          <div class="col-lg-4 mr-auto">
+            <p class="lead">This test is designed to provide you with useful and highly accurate information about your student behavior. The results should absolutely be seen as a reflection of your character. </br><font size="3"> <i>disclaimer: data anonymously collected for analysis</i> </font> </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+   
+
+    <div class="copyright py-4 text-center text-white">
+      <div class="container">
+          <small>&copy;2018 Jaehwan Song, Jack Toole, Jacob Stein, & The Chicago Shady Dealer</small>
+          </br>
+          <small>Freelancer theme by Jerome Lachaud</small>
+      </div>
+    </div>
+
+    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+    <div class="scroll-to-top d-lg-none position-fixed ">
+      <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+      </a>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+    <script src="vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <script src="vendor/surveyjs/survey.jquery.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <!-- <script src="js/freelancer.min.js"></script> -->
+    
+    <script src="js/quiz.js"></script>
+    
+    
+
+  </body>
+
+</html>
