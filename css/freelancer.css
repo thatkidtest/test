@@ -40,7 +40,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #800000FF;
+  background-color: #830000;
 }
 
 hr.star-dark {
@@ -344,7 +344,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #800000FF !important;
+  background-color: #830000 !important;
 }
 
 .bg-secondary {
@@ -360,8 +360,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #800000FE;
-  border-color: #800000FE;
+  background-color: #830000;
+  border-color: #830000;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
