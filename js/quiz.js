@@ -1,7 +1,7 @@
 var indentifier = Math.floor(Math.random() * 10000000);
 var ID = "ID: "+indentifier;
 console.log(ID);
-console.log("Update 2");
+console.log("Update 3");
 
 var json = {
     questions: [
@@ -210,7 +210,7 @@ model2
         //result1:
         
         multiplier = 1;
-        if (parseInt2(result1["1"]) > 1) multiplier = 2;
+        //if (parseInt2(result1["1"]) > 1) multiplier = 2;
         tkness += parseInt2(result1["1"])/4.0;
         tkness_count++;
         hostility += multiplier * parseInt2(result1["1"]) / 4.0;
@@ -246,7 +246,7 @@ model2
         faculty_count++;
 
         multiplier = 1;
-        if (parseInt2(result1["7"]) > 1) multiplier = 2;
+        //if (parseInt2(result1["7"]) > 1) multiplier = 2;
         tkness += multiplier * parseInt2(result1["7"]) / 4.0;
         tkness_count++;
         hostility += multiplier * parseInt2(result1["7"]) / 4.0;
@@ -321,7 +321,7 @@ model2
 
         //interrupt profs
         var multiplier = 1;
-        if (parseInt2(result2["8"]) > 1) multiplier = 2.5;
+        //if (parseInt2(result2["8"]) > 1) multiplier = 2.5;
         tkness += parseInt2(result2["8"]) / 6.0;
         tkness_count++;
         faculty += multiplier * parseInt2(result2["8"]) / 6.0;
@@ -357,7 +357,8 @@ model2
         var hostility_percent = hostility/hostility_count;
         var peer_percent = peer/peer_count;
         var faculty_percent = faculty/faculty_count;
-        faculty_percent += 0.1
+        faculty_percent += 0.061;
+        hostility_percent += 0.05;
 
         console.log("tkness: "+ tkness + " count " + tkness_count +" TKNESS: " + tkness_percent
             + "\nHOSTILITY: " + hostility_percent
@@ -379,6 +380,7 @@ model2
         };
 
         var description = "";
+        var desc2 = "";
         var tktype = "";
         if (intelligence_percent >= .5) {
             tktype += "I";
@@ -402,19 +404,26 @@ model2
         	description += " <b>A</b>ll-inclusive";
         }
         */
-        if ((tktype == "UN") || (Math.abs(peer_percent - faculty_percent) <= .05)) {
+        if (Math.abs(peer_percent - faculty_percent) <= .05) {
         	tktype += "A";
-        	description += " <b>A</b>ll-inclusive";
+        	desc2 += " <b>A</b>ll-inclusive";
         }
         else{
 	        if (peer_percent > faculty_percent) {
 	            tktype += "P";
-	            description += " <b>P</b>eer-oriented";
+	            desc2 += " <b>P</b>eer-oriented";
 	        }
 	        else{
 	            tktype += "F";
-	            description += " <b>F</b>aculty-oriented";
+	            desc2 += " <b>F</b>aculty-oriented";
 	        }
+	    }
+	    if (tktype == "UNP") {
+	        tktype = "UNA";
+	        description += " <b>A</b>ll-inclusive";
+	    }
+	    else {
+	        description += desc2;
 	    }
         var story = "</br></br><font size=5>";
         switch (tktype) {
@@ -434,10 +443,10 @@ model2
                 story += "Barack Obama once said that “to become God is the loneliest achievement of them all.” Think about that while you’re deifying your already lonely and clinically depressed Math 151 graduate lecturer. You don’t walk from class to class, rather you migrate from temple to temple, worshipping at the altars of those who inhabit the mystical plane of Ph.D. Like some sort of amoeba, you hungrily engulf without question everything these exalted Professors say. While you’re basking in the light of the these all knowing divinities, make sure not to be too obsequious lest your classmates get their eyes stuck in the backs of their heads. You’re pretty pathetic, but at least your prof likes it when you bring their exact starbucks order to office hours.";
                 break;
             case "INA":
-                story += "Socrates’ peers forced him to drink a cup of poison hemlock. He fucking deserved it. You merit a similar fate. From the moment you glimpsed the forms in the first week of HUM, you have insufferably dragged your compatriots toward enlightenment against their wills. You have all of the answers, you fear not the great questions of existence, and you sleep easily at night, knowing your place in the universe. It’s also probably why you’re the only one in your bed.";
+                story += "Socrates’ peers forced him to drink a cup of poison hemlock. He fucking deserved it. You merit a similar fate. From the moment you glimpsed the Forms in the first week of HUM, you have insufferably dragged your compatriots toward enlightenment against their wills. You have all of the answers, you fear not the great questions of existence, and you sleep easily at night, knowing your place in the universe. It’s also probably why you’re the only one in your bed.";
                 break;
             case "UHF":
-                story += "First of all, you suck. It’s likely that you are not just a that kid, but that you are also a thoroughly pernicious individual. Nobody enjoys your smirks, scoffs, and guffaws when the professor writes h instead of ħ. You should have listened to your mother when she said “If you don’t have anything nice to say, don’t say anything.” Since you didn't, we’ll say it to you again: If you don't have anything nice to say, don't say anything or your professor will dock you participation grade and your classmates will rise as one and slay you.";
+                story += "First of all, you suck. It’s likely that you are not just a That Kid, but that you are also a thoroughly pernicious individual. Nobody enjoys your smirks, scoffs, and guffaws when the professor writes h instead of ħ. You should have listened to your mother when she said “If you don’t have anything nice to say, don’t say anything.” Since you didn't, we’ll say it to you again: If you don't have anything nice to say, don't say anything or your professor will dock your participation grade and your classmates will rise as one and slay you.";
                 break;
             case "UHP":
                 story += "You didn't do the readings, but one of your peers said something stupid. You are saved. This idiot said just enough to clue your hungover mind onto what exactly should be said. All you have to do now is utter the magic phrase: “I’d just like to push back against that.” Participation grade saved. Now you can go back to pretentiously scribbling delta epsilon proofs with large handwriting so that your peers can see that you are A.) Very Very Smart, and B.) too cool for SOSC.";
@@ -449,7 +458,7 @@ model2
                 story += "You did the reading and have a lot of thoughts. Scratch that, a fuck ton of thoughts. Actually, more like a large agglomeration of notional fancies. You may almost have mastered the art of thinking out loud but you aren't quite Ed Sheeran and so you should probably stop which is not to say that all speech is bad of course but it is important to note that we don't think you will have any chance of getting laid if you don't stop talking which is not to say that your mountains of fluff don't contain any diamonds in the rough but what we mean to say is SHUT THE FUCK UP!";
                 break;
             case "UNF":
-                story += "You never got your parents approval, so now you try desperately to win your professor’s. Surely raising your hand all the time, nodding like a bobblehead on a backroad, and hogging their office hours will win them over! You come prepared for class with every text on the syllabus compressing your spine, polychrome notes that would make a pantone rep jealous and an insufferable willingness to learn and participate. You are like an F-22 raptor. A lean mean academic machine. You’re prepared to blast your professor’s socks off. Only instead of an F-22, you’re more like a drone running on Windows 2000. You are an object of awe, pity and schadenfreude as the professor smiles politely and says “Mm-hmm, anyone else?” Too bad life rewards results rather than effort.";
+                story += "You never got your parents' approval, so now you try desperately to win your professor’s. Surely raising your hand all the time, nodding like a bobblehead on a backroad, and hogging their office hours will win them over! You come prepared for class with every text on the syllabus compressing your spine, polychrome notes that would make a pantone rep jealous and an insufferable willingness to learn and participate. You are like an F-22 raptor. A lean mean academic machine. You’re prepared to blast your professor’s socks off. Only instead of an F-22, you’re more like a drone running Windows 2000. You are an object of awe, pity and schadenfreude as the professor smiles politely and says “Mm-hmm, anyone else?” Too bad life rewards results rather than effort.";
                 break;
         }
         story  += "</font>";
