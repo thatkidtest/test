@@ -82,7 +82,14 @@
       <div class="container">
         <h2 class="text-center text-uppercase text-secondary mb-0">The Test</h2>
         <hr class="star-dark mb-5">
-        <center><font size="5"><p id="result"> </p></font></center>
+        <center>
+            <font size="5"><p id="result"> </p></font>
+            <div id="friendDiv" style="display: none">
+            </br>
+            <button class="btn btn-primary btn-xl" id="friendButton" onclick="friend()">Try it again for a friend!</button>
+            </div>
+            <font size="5"><p id="tki_desc"> </p></font>
+        </center>
         <p id="intro1"> <font size="4"> In the first part of this survey, you will read a series of statements that describe 
             possible scenarios and behavior in the classroom. After reading each statement carefully, 
             please choose the option that best represents your experience or behavior in a discussion-based class. </br></br>
@@ -104,6 +111,7 @@
 
         <div id="surveyElement" style="display: none"></div>
         <div id="surveyElement2" style="display: none"></div>
+        
         
         <div id="form1" style="display: none">
             <input type="text" name="form2">
